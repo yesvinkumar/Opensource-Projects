@@ -1,2 +1,2 @@
 # Opensource-Projects
-List of Open source projects
+This repo consists list of projects being developed using opensource technologies.
